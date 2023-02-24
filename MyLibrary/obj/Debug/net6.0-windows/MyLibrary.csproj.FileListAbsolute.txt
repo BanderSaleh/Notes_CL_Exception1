@@ -1,0 +1,12 @@
+C:\Users\bande\OneDrive\Desktop\Renton Tech College stuff\Classes\2023 Winter\CSI 124 Computer Programming 3\Module 9 Lecture 14\Notes_CL_Exception1\MyLibrary\bin\Debug\net6.0-windows\MyLibrary.deps.json
+C:\Users\bande\OneDrive\Desktop\Renton Tech College stuff\Classes\2023 Winter\CSI 124 Computer Programming 3\Module 9 Lecture 14\Notes_CL_Exception1\MyLibrary\bin\Debug\net6.0-windows\MyLibrary.dll
+C:\Users\bande\OneDrive\Desktop\Renton Tech College stuff\Classes\2023 Winter\CSI 124 Computer Programming 3\Module 9 Lecture 14\Notes_CL_Exception1\MyLibrary\bin\Debug\net6.0-windows\MyLibrary.pdb
+C:\Users\bande\OneDrive\Desktop\Renton Tech College stuff\Classes\2023 Winter\CSI 124 Computer Programming 3\Module 9 Lecture 14\Notes_CL_Exception1\MyLibrary\obj\Debug\net6.0-windows\MyLibrary.csproj.AssemblyReference.cache
+C:\Users\bande\OneDrive\Desktop\Renton Tech College stuff\Classes\2023 Winter\CSI 124 Computer Programming 3\Module 9 Lecture 14\Notes_CL_Exception1\MyLibrary\obj\Debug\net6.0-windows\MyLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bande\OneDrive\Desktop\Renton Tech College stuff\Classes\2023 Winter\CSI 124 Computer Programming 3\Module 9 Lecture 14\Notes_CL_Exception1\MyLibrary\obj\Debug\net6.0-windows\MyLibrary.AssemblyInfoInputs.cache
+C:\Users\bande\OneDrive\Desktop\Renton Tech College stuff\Classes\2023 Winter\CSI 124 Computer Programming 3\Module 9 Lecture 14\Notes_CL_Exception1\MyLibrary\obj\Debug\net6.0-windows\MyLibrary.AssemblyInfo.cs
+C:\Users\bande\OneDrive\Desktop\Renton Tech College stuff\Classes\2023 Winter\CSI 124 Computer Programming 3\Module 9 Lecture 14\Notes_CL_Exception1\MyLibrary\obj\Debug\net6.0-windows\MyLibrary.csproj.CoreCompileInputs.cache
+C:\Users\bande\OneDrive\Desktop\Renton Tech College stuff\Classes\2023 Winter\CSI 124 Computer Programming 3\Module 9 Lecture 14\Notes_CL_Exception1\MyLibrary\obj\Debug\net6.0-windows\MyLibrary.dll
+C:\Users\bande\OneDrive\Desktop\Renton Tech College stuff\Classes\2023 Winter\CSI 124 Computer Programming 3\Module 9 Lecture 14\Notes_CL_Exception1\MyLibrary\obj\Debug\net6.0-windows\refint\MyLibrary.dll
+C:\Users\bande\OneDrive\Desktop\Renton Tech College stuff\Classes\2023 Winter\CSI 124 Computer Programming 3\Module 9 Lecture 14\Notes_CL_Exception1\MyLibrary\obj\Debug\net6.0-windows\MyLibrary.pdb
+C:\Users\bande\OneDrive\Desktop\Renton Tech College stuff\Classes\2023 Winter\CSI 124 Computer Programming 3\Module 9 Lecture 14\Notes_CL_Exception1\MyLibrary\obj\Debug\net6.0-windows\ref\MyLibrary.dll
